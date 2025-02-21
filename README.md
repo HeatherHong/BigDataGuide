@@ -3,16 +3,7 @@
 >大数据学习指南，从零开始学习大数据开发，包含大数据学习各个阶段资汇总
   
 ### [大数据学习or转型的一些建议](https://github.com/Dr11ft/BigDataGuide/blob/master/Docs/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0or%E8%BD%AC%E5%9E%8B.md)  
-### [GitHub图片不显示解决方案](https://blog.csdn.net/qq_41544550/article/details/106218291)  
-
-## 公众号
-关注我的公众号：**旧时光大数据**，回复相应关键字，获取更多大数据干货、资料  
-“大数据学习路线”中我自己看过的视频、文档资料可以直接在公众号获取云盘链接  
-<p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="200" height="200"/>  
-<p align="center">
-</p>
-</p>  
+### [GitHub图片不显示解决方案](https://blog.csdn.net/qq_41544550/article/details/106218291)  \
 
 概述
 ---
